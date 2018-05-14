@@ -2,4 +2,4 @@
 
 ## 安卓第四次实验UI组件之ListView
 
-![](https://ws1.sinaimg.cn/large/006dRdovgy1fq5ujez2clj30cb0msq4p.jpg)
+![](https://i.loli.net/2018/05/14/5af8f65b5d1ea.jpg)
